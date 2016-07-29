@@ -1,0 +1,1 @@
+ const unsigned char Pods_EvernoteVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Evernote  PROJECT:Pods-1" "\n"; const double Pods_EvernoteVersionNumber __attribute__ ((used)) = (double)1.;

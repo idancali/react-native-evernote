@@ -1,0 +1,6 @@
+framework module evernote_cloud_sdk_ios {
+  umbrella header "evernote-cloud-sdk-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

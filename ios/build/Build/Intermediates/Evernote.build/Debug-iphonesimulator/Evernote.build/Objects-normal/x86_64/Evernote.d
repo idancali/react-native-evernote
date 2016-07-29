@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Evernote.m \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Evernote.h \
+  ../node_modules/react-native/React/Base/RCTBridge.h \
+  ../node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  ../node_modules/react-native/React/Base/RCTBridgeModule.h \
+  ../node_modules/react-native/React/Base/RCTDefines.h \
+  ../node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  ../node_modules/react-native/React/Base/RCTInvalidating.h \
+  ../node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  ../node_modules/react-native/React/Base/RCTLog.h \
+  ../node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENSDK.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENNotebook.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENNoteRef.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENNoteContent.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENNote.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENNoteSearch.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENResource.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENError.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENSession.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENSDKLogging.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENCommonUtils.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Products/Debug-iphonesimulator/evernote_cloud_sdk_ios.framework/Headers/ENSaveToEvernoteActivity.h

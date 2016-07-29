@@ -1,0 +1,16 @@
+platform :ios, '8.0'
+use_frameworks!
+
+workspace 'Evernote'
+xcodeproj 'Evernote.xcodeproj'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+def appdeps
+  pod 'evernote-cloud-sdk-ios'
+end
+
+target :Evernote do
+  xcodeproj 'Evernote.xcodeproj'
+  appdeps
+end

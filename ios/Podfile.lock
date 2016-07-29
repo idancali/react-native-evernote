@@ -1,0 +1,10 @@
+PODS:
+  - evernote-cloud-sdk-ios (2.0.5)
+
+DEPENDENCIES:
+  - evernote-cloud-sdk-ios
+
+SPEC CHECKSUMS:
+  evernote-cloud-sdk-ios: 048cf5dcdc0c64069192d1336b7e121bc1a77e12
+
+COCOAPODS: 0.39.0

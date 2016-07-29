@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Private/ENHTMLNoteContent.m \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/Target\ Support\ Files/evernote-cloud-sdk-ios/evernote-cloud-sdk-ios-prefix.pch \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Private/ENHTMLNoteContent.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/build/Build/Intermediates/Pods.build/Debug-iphonesimulator/evernote-cloud-sdk-ios.build/module.modulemap \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/ENNoteContent.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Private/ENHTMLtoENMLConverter.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Advanced/Utilities/ENMLWriter/ENMLWriter.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Advanced/Utilities/ENMLWriter/ENXMLWriter.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Advanced/Utilities/ENMLWriter/ENXMLDTD.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Advanced/Utilities/ENMLWriter/ENEncryptedContentInfo.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/Private/ENXMLSaxParser.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/tree.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlversion.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlexports.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlstring.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlregexp.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/dict.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlmemory.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/threads.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/globals.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/parser.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/hash.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/valid.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlerror.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/list.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlautomata.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/entities.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/encoding.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xmlIO.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/SAX.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/xlink.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libxml2/libxml/SAX2.h \
+  /Users/dancali/@/idancali/idancali.dev/react-native-evernote/ios/Pods/evernote-cloud-sdk-ios/evernote-sdk-ios/ENSDK/ENNote.h
