@@ -1,6 +1,14 @@
 # react-native-evernote
 React Native Evernote Module for iOS & Android
 
+# Installation
+
+Install the module from the main npm repository:
+
+```javascript
+npm install --save react-native-evernote
+```
+
 # Quick Setup
 
 Simply import the module and use whatever you need from within.
