@@ -23,6 +23,10 @@ render() {
 }
 ```
 
+# Demo
+
+![demo](https://raw.githubusercontent.com/idancali/react-native-evernote/master/docs/0-1-0.0.gif)
+
 # License
 
 Copyright (c) 2016 I. Dan Calinescu
