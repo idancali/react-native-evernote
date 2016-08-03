@@ -7,7 +7,7 @@ xcodeproj 'Evernote.xcodeproj'
 source 'https://github.com/CocoaPods/Specs.git'
 
 def appdeps
-  pod 'evernote-cloud-sdk-ios'
+  pod 'evernote-cloud-sdk-ios', '~> 2.0.5'
 end
 
 target :Evernote do

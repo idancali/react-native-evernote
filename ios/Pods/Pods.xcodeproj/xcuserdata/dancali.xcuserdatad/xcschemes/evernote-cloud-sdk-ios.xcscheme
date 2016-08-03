@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '9D2CB628B9C55CDC64D35E9D'
+               BlueprintIdentifier = 'FD553C2FF509950E688565E7'
                BlueprintName = 'evernote-cloud-sdk-ios'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'evernote_cloud_sdk_ios.framework'>
